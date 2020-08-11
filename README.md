@@ -7,3 +7,10 @@
 ---
 [split_audio.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Speech-Recognition/Split_audio.py): 원하는 초로 나누는 함수<br>
 [speech_recognition.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Speech-Recognition/speech_recognition.py): google API를 이용한 한국어 음성인식 함수<br>
+
+## Python
+---
+[time.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Python/time.py): 시간 측정함수<br>
+[pdb.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Python/pdb.py): 디버깅함수<br>
+[find_specific_files.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Python/find_specific_files.py): 폴더 안의 특정 파일명만 리스트로 가져오기<br>
+[create_directory.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Python/create_directory.py): 폴더 생성하기
