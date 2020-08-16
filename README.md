@@ -14,4 +14,4 @@
 [pdb.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Python/pdb.py): 디버깅함수<br>
 [find_specific_files.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Python/find_specific_files.py): 폴더 안의 특정 파일명만 리스트로 가져오기<br>
 [create_directory.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Python/create_directory.py): 폴더 생성하기<br>
-[load_txt.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Python/load_txt.py): 텍스트 파일 불러오기<br>
+[load_txt.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Python/read_write_txt.py): 텍스트 파일 읽기, 쓰기<br>
