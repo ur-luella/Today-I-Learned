@@ -7,6 +7,7 @@
 ---
 [split_audio.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Speech-Recognition/Split_audio.py): 원하는 초로 나누는 함수<br>
 [speech_recognition.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Speech-Recognition/speech_recognition.py): google API를 이용한 한국어 음성인식 함수<br>
+[pcm2wav.py](https://github.com/ur-luella/Today-I-Learned/blob/master/Speech-Recognition/pcm2wav.py): pcm 파일을 wav로 변환하는 함수
 
 ## Python
 ---
