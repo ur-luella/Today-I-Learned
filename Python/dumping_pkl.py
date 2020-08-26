@@ -1,4 +1,4 @@
-def dumpingFiles(filePath, outFilename, files):
+def dumping_pkl(filePath, outFilename, files):
     import os, pickle
     dumpingPath = os.path.join(filePath, outFilename)
     print("Dumping at..", dumpingPath)
